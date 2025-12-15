@@ -1,0 +1,10 @@
+{
+  "name": "anvil",
+  "description": "Development helper.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vilem Vicher",
+    "email": "vilem.vicher@arviotech.com",
+    "url": "https://vilemvicher.cz"
+  }
+}

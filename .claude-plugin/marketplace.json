@@ -8,6 +8,11 @@
 			"name": "demo-plugin",
 			"source": "./demo-plugin",
 			"description": "Plugin for demo on Arvio AI hackaton."
+		},
+		{
+			"name": "anvil",
+			"source": "./anvil",
+			"description": "Git workflow helper with commit message generation."
 		}
 	]
 }
