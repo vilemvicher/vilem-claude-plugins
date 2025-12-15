@@ -1,0 +1,13 @@
+{
+	"name": "vilem-claude-plugins",
+	"owner": {
+		"name": "Vilem Vicher"
+	},
+	"plugins": [
+		{
+			"name": "demo-plugin",
+			"source": "./demo-plugin",
+			"description": "Plugin for demo on Arvio AI hackaton."
+		}
+	]
+}
